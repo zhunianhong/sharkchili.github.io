@@ -60,7 +60,7 @@ transferTo(servfile);
 
 > 图片
 
-![alt 博客图片](../img/goicon.png)
+![alt 博客图片](https://zhunianhong.github.io/img/goicon.png)
 
 > 表格
 
