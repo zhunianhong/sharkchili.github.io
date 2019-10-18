@@ -4,7 +4,7 @@ title:      Springboot上传文件
 subtitle:   记录问题
 date:       2019-07-17
 author:     ZNH
-header-img: img/post-bg-cook.jpg
+header-img: img/load.png
 catalog: true
 tags:
     - SpringBoot
